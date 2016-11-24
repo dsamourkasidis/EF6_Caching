@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CachingSettings>
+  <Frequency>
+    <name>Often</name>
+    <time>0</time>
+    <period>minutes</period>
+  </Frequency>
+  <Frequency>
+    <name>TimeToTime</name>
+    <time>20</time>
+    <period>minutes</period>
+  </Frequency>
+  <Frequency>
+    <name>AlmostNever</name>
+    <time>180</time>
+    <period>minutes</period>
+  </Frequency>
+  <Frequency>
+  <name>Never</name>
+  <time>360</time>
+  <period>minutes</period>
+</Frequency>
+</CachingSettings>

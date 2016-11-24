@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  <set id="Student">
+    <CanBeCached>True</CanBeCached>
+    <DataChangeFreq>Often</DataChangeFreq>
+  </set>
+  <set id="Course">
+    <CanBeCached>True</CanBeCached>
+    <DataChangeFreq>TimeToTime</DataChangeFreq>
+  </set>
+</catalog>
